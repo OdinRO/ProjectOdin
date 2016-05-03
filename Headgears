@@ -49,3 +49,37 @@
 5597 = Bubble Gum in Mouth ~ Quest
 5361 = Gangster Scarf ~ Quest
 5548 = Scarlet Rose ~ Quest
+
+// Lower Gear
+18712	=	Fan in Mouth         		= Donate
+18703	=	Stem in Mouth        		= Donate
+18746	=	Chilly Breath        		= Donate
+18683	=	Carrot in Mouth      		= Donate
+18666	=	CD in Mouth          		= Donate
+18648	=	Tounge Charm         		= Donate
+18702	=	Shaving Cream        		= Donate
+
+18745	=	Chocostick in Mouth  		= Quest
+18750	=	Poker Card in Mouth  		= Quest
+18716	=	Strawberry in Mouth  		= Quest
+18710	=	Sugared Fruit Stick  		= Quest 
+18679	=	Abacus in Mouth      		= Quest need to check doubled description
+18678	=	Leek in Mouth        		= Quest
+18698	=	Cheesy Snack in Mouth		= Quest
+18697	=	Syringe in Mouth     		= Quest 
+18677	=	Cherry twig in Mouth 		= Quest
+18670	=	Hankie in Mouth      		= Quest
+18665	=	Orange in Mouth      		= Quest
+18627	=	Dried Leaf           		= Quest
+
+
+// Middle Gear
+18747	=	Eyes of Ifrit        		= Donate
+18737	=	Fortier Mask         		= Donate
+18655	=	Godeo Monocle        		= Donate
+18647	=	Star Eyepatch        		= Donate
+
+18682	=	Teardrop             		= Quest
+18676	=	Hexagon Spectacles   		= Quest
+18664	=	Blind Glasses        		= Quest
+18658	=	Holy Santa Beard     		= Quest 
