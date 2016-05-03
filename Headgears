@@ -2,54 +2,55 @@
 // Ready to go in server, all effects has been confirmed and slot aswell
 // By: Vin
 // ===================================================================================
-5143 = Kabuki Mask[1] ~ Donate
-5385 = Yoyo Hat[0] ~ Donate
-5420 = Ifrit Mask[0] ~ Donate
-5374 = Gigantic Majestic Goat[0] ~ Donate
-5518 = Gigantic Majestic Goat 2[0] ~ Donate
-5690 = Red Wing Hat[1] ~ Donate
-5801 = Red Tailed Ribbon[0] ~ Donate
-5480 = Bijofnil Wings[0] ~ Donate
-5500 = Ice Cream Hat[0] ~ Donate
-5300 = Bullock Helm[0] ~ Donate
-
-5324 = Little_Angel_Doll[0]	~ Quest
-5340 = Deprotai_Doll_Hat[1] ~ Quest
-5341 = Claris_Doll_Hat[1] ~ Quest
-5342 = Sorin_Doll_Hat[1] ~ Quest
-5343 = Tayelin_Doll_Hat[1] ~ Quest
-5344 = Binit_Doll_Hat[1] ~ Quest
-5345 = Debril_Doll_Hat[1] ~ Quest
-5464 = Zaha_Doll_Hat[0] ~ Quest
-5497 = King_Tiger_Doll_Hat[1] ~ Quest
-5299 = Pagdayaw Hat[1] ~ Quest
-5303 = Flower Wreath[0] ~ Quest
-5132 = Angeling Hat[0] ~ Quest
-5170 = Feather Beret Hat[0] ~ Quest
-5137 = Alice Doll[1] ~ Quest
-5354 = Muslim Hat[0] ~ Quest
-5506 = Blue Night Cap[0] ~ Quest
+5143	=	Kabuki Mask[1]             	=	Donate
+5385	=	Yoyo Hat[0]                	=	Donate
+5420	=	Ifrit Mask[0]              	=	Donate
+5374	=	Gigantic Majestic Goat[0]  	=	Donate
+5518	=	Gigantic Majestic Goat 2[0]	=	Donate
+5690	=	Red Wing Hat[1]            	=	Donate
+5801	=	Red Tailed Ribbon[0]       	=	Donate
+5480	=	Bijofnil Wings[0]          	=	Donate
+5500	=	Ice Cream Hat[0]           	=	Donate
+5300	=	Bullock Helm[0]            	=	Donate
+				
+5324	=	Little_Angel_Doll[0]       	=	Quest
+5340	=	Deprotai_Doll_Hat[1]       	=	Quest
+5341	=	Claris_Doll_Hat[1]         	=	Quest
+5342	=	Sorin_Doll_Hat[1]          	=	Quest
+5343	=	Tayelin_Doll_Hat[1]        	=	Quest
+5344	=	Binit_Doll_Hat[1]          	=	Quest
+5345	=	Debril_Doll_Hat[1]         	=	Quest
+5464	=	Zaha_Doll_Hat[0]           	=	Quest
+5497	=	King_Tiger_Doll_Hat[1]     	=	Quest
+5299	=	Pagdayaw Hat[1]            	=	Quest
+5303	=	Flower Wreath[0]           	=	Quest
+5132	=	Angeling Hat[0]            	=	Quest
+5170	=	Feather Beret Hat[0]       	=	Quest
+5137	=	Alice Doll[1]              	=	Quest
+5354	=	Muslim Hat[0]              	=	Quest
+5506	=	Blue Night Cap[0]          	=	Quest
 
 
 // Middle
-5325 = Robo Eye ~ Donate
-5471 = Hairband of Regileif ~ Donate
-
-5800 = Blush of Groom ~ Quest
-5401 = Black Frame Glasses ~ Quest
-5389 = Angel Spirit ~ Quest
-5288 = Red Glasses ~ Quest
-5102 = Blank Eyes ~ Quest
+5325	=	Robo Eye                  	=	Donate
+5471	=	Hairband of Regileif      	=	Donate
+				
+5800	=	Blush of Groom            	=	Quest
+5401	=	Black Frame Glasses       	=	Quest
+5389	=	Angel Spirit              	=	Quest
+5288	=	Red Glasses               	=	Quest
+5102	=	Blank Eyes                	=	Quest
 
 // Lower Gear
-5377 = Gentleman's Pipe ~ Donate
+5377	=	Gentleman's Pipe            =	Donate
 
-5305 = Pirate Dagger ~ Quest
-5596 = 4Leaf Clover In Mouth ~ Quest
-5597 = Bubble Gum in Mouth ~ Quest
-5361 = Gangster Scarf ~ Quest
-5548 = Scarlet Rose ~ Quest
+5305	=	Pirate Dagger               =	Quest
+5596	=	4Leaf Clover In Mouth       =	Quest
+5597	=	Bubble Gum in Mouth         =	Quest
+5361	=	Gangster Scarf              =	Quest
+5548	=	Scarlet Rose                =	Quest
 
+// Batch 2 ================================================
 // Lower Gear
 18712	=	Fan in Mouth         		= Donate
 18703	=	Stem in Mouth        		= Donate
