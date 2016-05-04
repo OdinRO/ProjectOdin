@@ -1,63 +1,63 @@
 // Official Quest Requirements to be release in OdinRO
 // ======================================================================
 5800	=	Blush of Groom
-Alice's Apron x100
+Alice's Apron x100  = 7047
 
 5401	=	Black Frame Glasses
-Sunglasses[0] x1
-Steel - x5
+Sunglasses[0] x1  = 2201
+Steel - x5  = 999
 500,000z
 
 5389	=	Angel Spirit
-Opera Phantom Mask x1
-Angel Wing Ears x1
-Feather x20
+Opera Phantom Mask x1 = 5043
+Angel Wing Ears x1  = 5074
+Feather x20 = 949
 1,000,000z
 
 5135	=	Cyclop's Eye
-Blinker x1
-Gold x2
-Scarlet Dyestuff x1
-Steel x5
+Blinker x1  = 2295
+Gold x2 = 969
+Scarlet Dyestuff x1 = 975
+Steel x5  = 999
 1,000,000z
 
 5421	=	Ifrit's Ear
-Elven Ears x1
-Burning Hair x100
+Elven Ears x1 = 2286
+Burning Hair x100 = 7122
 3,000,000z
 
 5402	=	Mischievous Fairy
-Elven Ears x1
-Elder Pixie's Moustache x5
+Elven Ears x1 = 2286
+Elder Pixie's Moustache x30  = 1040
 3,000,000z
 
 5358	=	Peco Ears
-Elven Ears x1
-PecoPeco Feather x30
+Elven Ears x1 = 2286
+PecoPeco Feather x30  = 7101
 2,500,000z
 
 5397	=	Scuba Mask
-Flexible Tube x5
-Diver Goggles x1
-Transparent Plate x1
+Flexible Tube x5  = 7325
+Diver Goggles x1  = 2205
+Transparent Plate x1  = 7355
 1,500,000z
 
 18682	=	Teardrop
-Aquamarine x100
+Aquamarine x100 = 720
 2,500,000z
 
 18676	=	Hexagon Spectacles
-Sunglass[0] x1
-Matchstick x10
+Sunglass[0] x1  = 2201
+Matchstick x10  = 7035
 1,500,000z
 
 18664	=	Blind Glasses
-Coal x50
-Sunglass[0] x1
-Black Dyestuff x1
+Coal x50  = 1003
+Sunglass[0] x1  = 2201
+Black Dyestuff x1 = 983
 2,500,000z
 
 18658	=	Holy Santa Beard
-Feather x100
-Holy Water x20
+Feather x100  = 949
+Holy Water x20  = 523
 1,500,000z
