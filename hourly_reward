@@ -15,7 +15,7 @@ OnPCLoginEvent:
 	end;
 
 
-// Saves the timer and the minute played every .timer
+// Saves the timer and the minute played every .timer(1000*60*1) // default 60seconds, see OnInit for the config
 // ===================================================
 OnPointGet:
 	if(checkvending() >= 1 || checkchatting() == 1 || checkidle(strcharinfo(0)) >= 300 ){
