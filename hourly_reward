@@ -1,0 +1,61 @@
+// Hourly Points credit to the script author
+// Customized and Remove/Replace several lines to fit in my likings
+// Some Bug fixes - NPC Conversation stuck
+// By: jKaizu
+// ==================================================
+
+-	script	hourlypoints	-1,{
+
+// Starts the timer
+// ===================================================
+OnPCLoginEvent:
+	dispbottom "* Hourly Points has been initiated in this account.",0x22E982;
+	dispbottom "* "+(.Total - #Mins)+" minutes left till your next hourly points reward.",0x22E982;
+	addtimer .timer,"hourlypoints::OnPointGet";
+	end;
+
+
+// Saves the timer and the minute played every .timer
+// ===================================================
+OnPointGet:
+	if(checkvending() >= 1 || checkchatting() == 1 || checkidle(strcharinfo(0)) >= 300 ){
+		dispbottom "* The hourly points has been stopped you either in Vending, Chatting or Idle, Please re-log to initiate the timer again.",0x22E982;
+		end;
+	}
+	set #Mins,#Mins + 1;
+	//dispbottom "* Hourly Points: ",0x22E982;
+	if(#Mins == .Total){
+		set #HOURLYPOINT,#HOURLYPOINT + .P_Amount;
+		dispbottom "* You recieved "+ .P_Amount +" Hourly Point(s). for staying "+#Mins+" minute(s) In-game.",0x22E982;
+		dispbottom "* Currently Balance = "+#HOURLYPOINT+" Hourly Points(s).",0x22E982;
+		set #Mins,0;
+	
+		addtimer .timer,"hourlypoints::OnPointGet";
+		end;
+	}
+	addtimer .timer,"hourlypoints::OnPointGet";
+	end;
+
+
+// Custom Commands for players
+// ====================================================
+OnCheckMinute:
+	dispbottom "* You need stay for atleast "+(.Total - #Mins)+" minutes more to recieve your hourly rewards.",0x22E982;
+	end;
+
+OnCheckPoints:
+	dispbottom "* Current Balance = "+#HOURLYPOINT+" Hourly Points(s).",0x22E982;
+	end;
+
+
+// Configs here
+// ====================================================
+OnInit:
+	bindatcmd "ccash",strnpcinfo(3)+"::OnCheckPoints";
+	bindatcmd "mmy",strnpcinfo(3)+"::OnCheckMinute";
+	set .timer,1000*60*1;
+	set .P_Amount,50;
+	set .Total,60;
+	end;
+
+}
